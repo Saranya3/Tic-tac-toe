@@ -1,5 +1,5 @@
 # tictactoe
 Simple game 
 
-To run 
+To run -
 python tictactoe.py
